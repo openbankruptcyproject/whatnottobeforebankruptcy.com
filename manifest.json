@@ -1,0 +1,16 @@
+{
+  "name": "What Not to Do Before Filing Bankruptcy",
+  "short_name": "whatnottobeforebankruptcy.com",
+  "description": "Critical mistakes to avoid before filing bankruptcy. Transfers, preferential payments, running up credit, hiding income, and cashing out retirement.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
