@@ -1,48 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.w3.org/2005/Sitemaps/sitemaps.org/schema/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://whatnottobeforebankruptcy.com/</loc>
-    <lastmod>2026-03-29</lastmod>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://whatnottobeforebankruptcy.com/dont-transfer-assets.html</loc>
-    <lastmod>2026-03-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://whatnottobeforebankruptcy.com/dont-pay-family-first.html</loc>
-    <lastmod>2026-03-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://whatnottobeforebankruptcy.com/dont-run-up-credit.html</loc>
-    <lastmod>2026-03-29</lastmod>
+    <loc>https://whatnottobeforebankruptcy.com/dont-cash-out-retirement.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://whatnottobeforebankruptcy.com/dont-hide-income.html</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://whatnottobeforebankruptcy.com/dont-cash-out-retirement.html</loc>
-    <lastmod>2026-03-29</lastmod>
+    <loc>https://whatnottobeforebankruptcy.com/dont-pay-family-first.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatnottobeforebankruptcy.com/dont-run-up-credit.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://whatnottobeforebankruptcy.com/dont-sell-property.html</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatnottobeforebankruptcy.com/dont-transfer-assets.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://whatnottobeforebankruptcy.com/dont-wait-too-long.html</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://whatnottobeforebankruptcy.com/faq.html</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatnottobeforebankruptcy.com/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
   </url>
 </urlset>
