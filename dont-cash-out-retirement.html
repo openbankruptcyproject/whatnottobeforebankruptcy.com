@@ -428,7 +428,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 </script>
-<script src="/btn-engage.js"></script>
+<script src="/btn-engage.js" defer></script>
 <script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString()}).catch(function(){})</script>
 </body>
 </html>
