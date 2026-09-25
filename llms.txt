@@ -1,7 +1,7 @@
 # What Not to Do Before Filing Bankruptcy [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Avoid these critical mistakes before filing bankruptcy. Transfers, credit card charges, retirement withdrawals, and other red flags. ...
+> Avoid these critical mistakes before filing bankruptcy. Transfers, credit card charges, retirement withdrawals, and other red flags.
 
 ## About
 whatnottobeforebankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
@@ -17,6 +17,7 @@ whatnottobeforebankruptcy.com is part of the Open Bankruptcy Project (openbankru
 - Pre-Filing Bankruptcy FAQ - What to Avoid: https://whatnottobeforebankruptcy.com/faq.html
 - What Not to Do Before Filing Bankruptcy: https://whatnottobeforebankruptcy.com/
 - Privacy Policy: https://whatnottobeforebankruptcy.com/privacy.html
+- About whatnottobeforebankruptcy.com: https://whatnottobeforebankruptcy.com/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

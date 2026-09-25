@@ -1,6 +1,6 @@
 # whatnottobeforebankruptcy.com -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on whatnottobeforebankruptcy.com.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -74,6 +74,8 @@ What to Expect at a 341 Meeting
 
 Reaffirmation Agreements Explained
 
+In most cases, yes. If you are current on payments and the equity in your vehicle is within your state's motor vehicle exemption, you keep the car. You may need to reaffirm the debt in Chapter 7 or include the payments in your Chapter 13 plan.
+
 Related Topics
 
 How to File Bankruptcy
@@ -91,7 +93,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -101,7 +103,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -166,20 +168,33 @@ Everything you need to know about Chapter 7
 
 whatischapter7.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Transfers ·
-Family Payments ·
-Credit Cards ·
-Hide Income ·
-Retirement ·
-Sell Property ·
-Waiting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -249,9 +264,11 @@ Reaffirmation Agreements Explained
 
 Payday Loan Debt in Bankruptcy
 
+While bankruptcy is federal law, each state sets its own exemptions that determine what property you can keep. Some states also allow you to choose between state and federal exemptions. Your state's median income determines Chapter 7 eligibility through the means test.
+
 Related Topics
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 How to File Bankruptcy
 What Is Chapter 7?
@@ -268,7 +285,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -278,7 +295,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -343,20 +360,33 @@ Everything you need to know about Chapter 7
 
 whatischapter7.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Transfers ·
-Family Payments ·
-Credit Cards ·
-Hide Income ·
-Retirement ·
-Sell Property ·
-Waiting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -420,6 +450,8 @@ What to Expect at a 341 Meeting
 
 Reaffirmation Agreements Explained
 
+Chapter 7 is a liquidation bankruptcy that eliminates most unsecured debts in about 3-4 months. A trustee reviews your assets and may sell non-exempt property to pay creditors. Most Chapter 7 cases are no-asset, meaning you keep everything you own.
+
 Related Topics
 
 How to File Bankruptcy
@@ -437,7 +469,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -447,7 +479,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -512,20 +544,33 @@ Everything you need to know about Chapter 7
 
 whatischapter7.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Transfers ·
-Family Payments ·
-Credit Cards ·
-Hide Income ·
-Retirement ·
-Sell Property ·
-Waiting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -587,6 +632,8 @@ What to Expect at a 341 Meeting
 
 Reaffirmation Agreements Explained
 
+A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal attorney involvement. Cases are often handled by paralegals or software, leading to errors, missed deadlines, and poor outcomes for clients.
+
 Related Topics
 
 How to File Bankruptcy
@@ -604,7 +651,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -614,7 +661,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -679,20 +726,33 @@ Everything you need to know about Chapter 7
 
 whatischapter7.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Transfers ·
-Family Payments ·
-Credit Cards ·
-Hide Income ·
-Retirement ·
-Sell Property ·
-Waiting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -756,6 +816,8 @@ What to Expect at a 341 Meeting
 
 Reaffirmation Agreements Explained
 
+A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal attorney involvement. Cases are often handled by paralegals or software, leading to errors, missed deadlines, and poor outcomes for clients.
+
 Related Topics
 
 How to File Bankruptcy
@@ -773,7 +835,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -783,7 +845,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -848,20 +910,33 @@ Everything you need to know about Chapter 7
 
 whatischapter7.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Transfers ·
-Family Payments ·
-Credit Cards ·
-Hide Income ·
-Retirement ·
-Sell Property ·
-Waiting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -931,6 +1006,8 @@ What to Expect at a 341 Meeting
 
 Reaffirmation Agreements Explained
 
+A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal attorney involvement. Cases are often handled by paralegals or software, leading to errors, missed deadlines, and poor outcomes for clients.
+
 Related Topics
 
 How to File Bankruptcy
@@ -948,7 +1025,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -958,7 +1035,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -1023,20 +1100,33 @@ Everything you need to know about Chapter 7
 
 whatischapter7.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Transfers ·
-Family Payments ·
-Credit Cards ·
-Hide Income ·
-Retirement ·
-Sell Property ·
-Waiting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -1106,6 +1196,8 @@ What to Expect at a 341 Meeting
 
 Reaffirmation Agreements Explained
 
+Filing fees are $338 for Chapter 7 and $313 for Chapter 13. Attorney fees typically range from $1,000 to $3,500 depending on the chapter and complexity. Fee waivers and installment payments are available for those who qualify.
+
 Related Topics
 
 How to File Bankruptcy
@@ -1123,7 +1215,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -1133,7 +1225,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -1198,20 +1290,33 @@ Everything you need to know about Chapter 7
 
 whatischapter7.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Transfers ·
-Family Payments ·
-Credit Cards ·
-Hide Income ·
-Retirement ·
-Sell Property ·
-Waiting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -1277,6 +1382,8 @@ What to Expect at a 341 Meeting
 
 Reaffirmation Agreements Explained
 
+Stop immediately when you decide to file. The 90-day presumption period under Section 523(a)(2)(C) is the minimum safety window for luxury purchases over $725. For cash advances over $1,000, the window is 70 days.
+
 Related Topics
 
 How to File Bankruptcy
@@ -1294,7 +1401,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -1304,7 +1411,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -1369,20 +1476,33 @@ Everything you need to know about Chapter 7
 
 whatischapter7.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Transfers ·
-Family Payments ·
-Credit Cards ·
-Hide Income ·
-Retirement ·
-Sell Property ·
-Waiting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -1416,6 +1536,8 @@ Preferential payment window
 
 $725
 Luxury goods presumption threshold
+
+Paying off one creditor while owing others is called a preferential transfer. Under 11 U.S.C. Section 547, the trustee can claw back payments over $600 made to any creditor within 90 days of filing, or within 1 year if the creditor is an insider like a family member.
 
 Why the pre-filing period matters
 
@@ -1465,8 +1587,6 @@ Legitimate pre-filing planning is legal. There is a difference between fraud and
 
 We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
-
 Related Guides
 
 Credit Counseling for Bankruptcy
@@ -1494,7 +1614,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
 
@@ -1504,7 +1624,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -1647,26 +1767,72 @@ California · Texas · Florida · New York · Illinois · Ohio
 
 Browse All 50 State Guides →
 
-Free bankruptcy education. Not legal advice.
+Foundational Caselaw
 
-Home ·
-Transfers ·
-Family Payments ·
-Credit Cards ·
-Hide Income ·
-Retirement ·
-Sell Property ·
-Waiting ·
-FAQ
+The cases below define the doctrine on this site:
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Union Bank v. Wolas, 502 U.S. 151 (1991) - the "ordinary course of business" defense to preference liability under Section 547(c)(2) extends to long-term debt, not just short-term trade debt.
 
-Privacy Policy
+BFP v. Resolution Trust Corporation, 511 U.S. 531 (1994) - the price obtained at a non-collusive, regularly conducted real-estate foreclosure sale is conclusively presumed to be "reasonably equivalent value" under Section 548(a)(2).
 
-Rule 9037 PII Scanner - Free open-source tool to detect unredacted personal information in court filings
+Merit Management Group, LP v. FTI Consulting, Inc., 583 U.S. 366 (2018) - Section 546(e) safe harbor for transfers "by or to a financial institution" is determined by looking at the overarching transfer the trustee seeks to avoid, not at intermediate transfers.
 
-Cited by the Federal Rules Committee (26-BK-3)
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+Index
 
 ---
 
@@ -1726,7 +1892,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -1736,6 +1902,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About whatnottobeforebankruptcy.com
+Source: https://whatnottobeforebankruptcy.com/about.html
+
+whatnottobeforebankruptcy.com
+
+Home
+About
+Privacy
+
+About whatnottobeforebankruptcy.com
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+whatnottobeforebankruptcy.com is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
